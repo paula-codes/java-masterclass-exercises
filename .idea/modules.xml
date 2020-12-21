@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList_challenge/ArrayList_challenge.iml" filepath="$PROJECT_DIR$/ArrayList_challenge/ArrayList_challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Burgers/Burgers.iml" filepath="$PROJECT_DIR$/Burgers/Burgers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CarpetCostCalculator/CarpetCostCalculator.iml" filepath="$PROJECT_DIR$/CarpetCostCalculator/CarpetCostCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cars/Cars.iml" filepath="$PROJECT_DIR$/Cars/Cars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComplexOperations/ComplexOperations.iml" filepath="$PROJECT_DIR$/ComplexOperations/ComplexOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cylinder/Cylinder.iml" filepath="$PROJECT_DIR$/Cylinder/Cylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListAndArrayList/ListAndArrayList.iml" filepath="$PROJECT_DIR$/ListAndArrayList/ListAndArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinAndMaxInputChallenge/MinAndMaxInputChallenge.iml" filepath="$PROJECT_DIR$/MinAndMaxInputChallenge/MinAndMaxInputChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Point/Point.iml" filepath="$PROJECT_DIR$/Point/Point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PoolArea/PoolArea.iml" filepath="$PROJECT_DIR$/PoolArea/PoolArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Printing/Printing.iml" filepath="$PROJECT_DIR$/Printing/Printing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResizingArray/ResizingArray.iml" filepath="$PROJECT_DIR$/ResizingArray/ResizingArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Room/Room.iml" filepath="$PROJECT_DIR$/Room/Room.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmallChallenges/SmallChallenges.iml" filepath="$PROJECT_DIR$/SmallChallenges/SmallChallenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Transport/Transport.iml" filepath="$PROJECT_DIR$/Transport/Transport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WallArea/WallArea.iml" filepath="$PROJECT_DIR$/WallArea/WallArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_masterclass_exercises.iml" filepath="$PROJECT_DIR$/.idea/java_masterclass_exercises.iml" />
+    </modules>
+  </component>
+</project>
